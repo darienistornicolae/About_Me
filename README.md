@@ -5,5 +5,3 @@ I am Nicolae, an indie iOS engineer with expertise in various programming langua
 iOS Development expertise 💻📱
 
 My programming journey began with JavaScript and I swiftly expanded my skills to encompass Swift and various Apple Frameworks in the Apple ecosystem. I have gained considerable experience in working with Swift and its framework, enhancing my ability to build Mobile Apps.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darienistornicolae&show_icons=true&theme=radical)
